@@ -169,7 +169,7 @@ The results of this testing provide two pieces of information:
 
 These manufacturing controls would use T-Tests after verfying normality.
 
-The above data would be needed in sufficient quantity to satisfy the law of large numbers to make sure the distribution converges to a normal distribution. 
+The above data would be needed for competitor cars as well as MechaCar and in sufficient quantity to satisfy the law of large numbers to make sure the distribution converges to a normal distribution. 
 
 
 
